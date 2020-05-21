@@ -1,0 +1,88 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "5ebb8bd465ab8516cb75dbe8",
+      "name": "Heath Macdonald",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Dog"
+    },
+
+    {
+      "id": "5ebb909db93fe79e1b35f546",
+      "name": "Brock Poole",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Dog",
+      "createdAt": 1589350533703
+    },
+    {
+      "id": "5ebb909d6ade13a0acd59db7",
+      "name": "Gallagher Hebert",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Cat",
+      "createdAt": 1589350533703
+    },
+    {
+      "id": "5ebb909da94de779bc1e72ca",
+      "name": "Alvarado Kennedy",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Dog",
+      "createdAt": 1589350533703
+    },
+    {
+      "id": "5ebb909df1bbc17367446450",
+      "name": "Lesa Cohen",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Dog",
+      "createdAt": 1589350533703
+    },
+    {
+      "id": "5ebb909d316c43f914e7fc63",
+      "name": "Morgan Lewis",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Cat",
+      "createdAt": 1589350533703
+    },
+    {
+      "id": "5ebb909d6119694c762383bd",
+      "name": "Singleton Stafford",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Dog",
+      "createdAt": 1589350533703
+    },
+    {
+      "id": "5ebb909dbc5a4717264864bb",
+      "name": "Frankie Albert",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Dog",
+      "createdAt": 1589350533703
+    },
+    {
+      "id": "5ebb909d65c0cd20af558a44",
+      "name": "Dianne Sykes",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Dog",
+      "createdAt": 1589350533703
+    },
+    {
+      "id": "5ebb909d18f737dd35adc2dc",
+      "name": "Diann Randall",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "Dog",
+      "createdAt": 1589350533703
+    }
+  ]
+}
