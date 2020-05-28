@@ -1,13 +1,8 @@
 const nanoid = require("nanoid");
 
 const createPetModel = (db) => ({
-  findMany: (filter = {}) => {
-    return db
-      .get("pet")
-      .filter(filter)
-      .orderBy(["createdAt"], ["desc"])
-      .value();
-  },
+  findMany: (filter = {}) =>
+    db.get("pet").filter(filter).orderBy(["desc"]).value(),
 });
 
 module.exports = createPetModel;
