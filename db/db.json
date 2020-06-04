@@ -1,6 +1,6 @@
 {
   "user": {
-    "id": 1,
+    "id": "5ebb89d81be6770489dcc8fc",
     "username": "frontendmaster"
   },
   "pet": [
@@ -9,14 +9,35 @@
       "name": "Heath Macdonald",
       "img": "http://placehold.it/32x32",
       "owner": "5ebb89d81be6770489dcc8fc",
-      "type": "Dog"
+      "type": "DOG"
     },
     {
       "id": "5ebb909db93fe79e1b35f546",
       "name": "Brock Poole",
       "img": "http://placehold.it/32x32",
       "owner": "5ebb89d81be6770489dcc8fc",
-      "type": "Dog"
+      "type": "DOG"
+    },
+    {
+      "id": "5ebb909db93fe79e1b35g579",
+      "name": "John Doe",
+      "img": "http://placehold.it/32x32",
+      "owner": "5ebb89d81be6770489dcc8fc",
+      "type": "CAT"
+    },
+    {
+      "id": "4d4B0TzDEWjbfWQkzC4I-",
+      "createdAt": 1591272822894,
+      "name": "johnny",
+      "owner": "5ebb89d81be6770489dcc812",
+      "type": "DOG"
+    },
+    {
+      "id": "LmTcsZW5HJtR1vRbfkbxD",
+      "createdAt": 1591272842301,
+      "name": "moami",
+      "owner": "5ebb89d81be6770489dcc812",
+      "type": "DOG"
     }
   ]
 }
